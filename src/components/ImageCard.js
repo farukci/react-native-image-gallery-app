@@ -56,8 +56,8 @@ const styles = StyleSheet.create({
     },
     image: {
         resizeMode: "cover",
-        height: Dimensions.get('window').height / 3,
-        width: Dimensions.get('window').width / 2,
+        height: Dimensions.get('window').height / 3.5,
+        // width: Dimensions.get('window').width / 2,
         // flex: 1,
     },
     imageModal: {
